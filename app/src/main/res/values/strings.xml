@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">American Football</string>
+    <string name="teamName1">Team A</string>
+    <string name="teamName2">Team B</string>
+    <string name="team1points">0</string>
+    <string name="team2points">0</string>
+    <string name="point1">Touchdown = 6 Points</string>
+    <string name="point2">Field goal = 3 Points</string>
+    <string name="point3">Extra point</string>
+    <string name="point4">Safety = 1 point</string>
+    <string name="reset">reset</string>
+</resources>
